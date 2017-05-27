@@ -1,6 +1,6 @@
 {
-	"id": "<span style=color:magenta;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>theid</span>",
-	"name": "<span style=color:brown;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>thename</span>",
+	"id": "<span style=display:none;color:magenta;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>theid</span>",
+	"name": "<span style=display:none;color:brown;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>thename</span>",
 	"theheader": "# this is the header",
 	"thebody": "this is the body\n\nof course it will have several paragraphs.\n\nand perhaps even a list.\n\n+ item1\n+ item2\n+ item3\n\nand another list.\n\n+ apple\n+ orange\n+ banana\n",
 	"thefooter": "## this is the footer"
