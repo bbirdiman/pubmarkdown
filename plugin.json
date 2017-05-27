@@ -1,12 +1,6 @@
 {
-	"name": "<span style=color:brown;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>rrr</span>",
-	"id": "<span style=color:magenta;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>rrr</span>",
-	"description": "\n\n# _description1111111xxx_",
-	"description2": "## <span style=color:red>description</span>2",
-	"description3": "### description<span style=color:red>3</span>\n\n\n",
-	"property1": "### this is property1",
-	"property2": "#### this is property2",
-	"property3": "##### this is property3",
+	"id": "<span style=color:magenta;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>theid</span>",
+	"name": "<span style=color:brown;font-size:1px;line-height:1px;margin:-10px;padding:-10px;margin-bottom:-20px;padding-bottom:-20px>thename</span>",
 	"theheader": "this is the header",
 	"thebody": "this is the body\n\nof course it will have several paragraphs.\n\nand perhaps even a list.\n\n+ item1\n+ item2\n+ item3\n\nand another list.\n\n+ apple\n+ orange\n+ banana\n",
 	"thefooter": "this is the footer"
